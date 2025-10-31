@@ -88,8 +88,8 @@ Si le fichier de configuration est absent, l'installation et la configuration se
 ## Informations !!
 
 L'utilisation de cet outil est pleinement compatible uniquement depuis :
-- 🇫🇷 France  
-- 🇧🇪 Belgique  
+- France  
+- Belgique  
 
 Une prochaine mise à jour **2.0** est prévue et englobera beaucoup plus de fonctionnalités !
 
