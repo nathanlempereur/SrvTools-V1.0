@@ -1,0 +1,15 @@
+#!/usr/bin/expect
+
+set login [lindex $argv 0]
+set passwd [lindex $argv 1]
+set dir [lindex $argv 2]
+
+spawn pure-pw useradd $login -u ftp -d $dir -m 
+
+expect "Password" {sleep 2; send "$passwd\n"; sleep 5;}
+expect "Enter" {sleep 2; send "$passwd\n"; sleep 5;}
+
+puts "\nLutilisateur $login avec le mdp $passwd a ete cree !\n"
+
+
+
