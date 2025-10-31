@@ -36,7 +36,7 @@ Ce logiciel est entièrement libre et modifiable selon vos besoins, il est essen
   - Choix de sécurisation par utilisateurs
 
 <img width="335" height="264" alt="image" src="https://github.com/user-attachments/assets/057be538-072d-4dec-a43f-15ae5b63a50a" />
-    --
+--
 
 ### 2. Installation de WebApps (CMS) :
 - **Installation de Wordpress**
