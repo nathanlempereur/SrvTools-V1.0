@@ -1,69 +1,78 @@
-# SrvTools-V1.0
+# SrvTools V1.0
 
-Bienvenue sur **SrvTools 1.0** !   
-<img width="343" height="83" alt="image" src="https://github.com/user-attachments/assets/847e6d9c-c52c-42aa-b12a-44c710b5a453" />
-
-SrvTools est un outil d'installation et de configuration de serveur Linux, conçu pour aider aussi bien les techniciens débutants que professionnels.
-
-Ce logiciel est entièrement libre et modifiable selon vos besoins, il est essentiellement composé de langage **Bash**.
+Bienvenue sur **SrvTools 1.0** !  
+<img width="343" height="83" alt="SrvTools logo" src="https://github.com/user-attachments/assets/847e6d9c-c52c-42aa-b12a-44c710b5a453" />
 
 ---
 
-## Fonctionnalités
+## Présentation
 
-<img width="555" height="374" alt="image" src="https://github.com/user-attachments/assets/8309efbb-94a3-4dfb-9d45-09e1431b43f6" />
+**SrvTools** est un outil d’installation et de configuration de serveurs Linux, conçu pour accompagner aussi bien les **techniciens débutants** que les **professionnels**.  
 
-### 1. Installation de services :
-- **Installation SSHD** :
-  - Choix du port 
-  - Choix d'accès root
-- **Installation FTP réel** :
-  - Activer le mode anonyme 
-  - L'autoriser à uploader 
-  - Activer la connexion anonyme seule
-  - Activer le ChRooting
-  - Choix du nombre maximum de clients connectés en même temps
-  - Choix du nombre maximum de clients connectés sur la même IP
-  - Autoriser la suppression de fichiers ou dossiers
-  - Autoriser à renommer les fichiers et dossiers
-- **Installation FTP virtuel** :
-  - Choix des utilisateurs et mots de passe
-- **Installation d'Apache2 simple**
-- **Installation de Fail2ban** :
-  - Sécurité SSHD 
-  - Sécurité Apache-auth
-- **Installation du partage Samba** :
-  - Choix de sécurisation par utilisateurs
-
-<img width="335" height="264" alt="image" src="https://github.com/user-attachments/assets/057be538-072d-4dec-a43f-15ae5b63a50a" />
+Ce projet est **libre**, **ouvert** et **personnalisable** selon vos besoins.  
+Il est principalement développé en **Bash**.
 
 ---
 
-### 2. Installation de WebApps (CMS) :
-- **Installation de Wordpress**
-- **Installation de MediaWiki**
-- **Installation de GLPI**
-- **Installation de Dotclear**
-- **Installation de DokuWiki**
-- **Installation de Dolibarr**
+## ⚙️ Fonctionnalités
 
-<img width="345" height="266" alt="image" src="https://github.com/user-attachments/assets/84471a8b-a299-4124-8cce-065662c67fa2" />
+<img width="555" height="374" alt="SrvTools menu" src="https://github.com/user-attachments/assets/8309efbb-94a3-4dfb-9d45-09e1431b43f6" />
+
+### 🖥️ 1. Installation de services
+
+- **Installation SSHD**
+  - Choix du port  
+  - Autorisation ou non de l’accès root  
+
+- **Installation FTP réel**
+  - Activer le mode anonyme  
+  - Autoriser l’upload  
+  - Activer la connexion anonyme seule  
+  - Activer le chroot des utilisateurs  
+  - Définir le nombre maximal de clients connectés (globalement et par IP)  
+  - Autoriser la suppression ou le renommage de fichiers/dossiers  
+
+- **Installation FTP virtuel**
+  - Création d’utilisateurs et mots de passe personnalisés  
+
+- **Installation d’Apache2 simple**
+
+- **Installation de Fail2ban**
+  - Protection SSHD  
+  - Protection Apache-auth  
+
+- **Partage Samba**
+  - Choix de la sécurisation par utilisateurs  
+
+<img width="335" height="264" alt="SrvTools FTP" src="https://github.com/user-attachments/assets/057be538-072d-4dec-a43f-15ae5b63a50a" />
 
 ---
 
-### 3. Configuration du serveur :
-- **Configuration réseau** :
-  - Choix de connexion Ethernet ou Wi-Fi
-  - Choix de la carte réseau
-  - Choix IP fixe ou DHCP
-    - Choix de l’adresse IP
-    - Choix du masque
-    - Choix de la passerelle
-    - Choix du DNS
-- **Création de backups** :
-  - Choix du dossier à sauvegarder
+### 🌐 2. Installation de WebApps (CMS)
 
-<img width="523" height="294" alt="image" src="https://github.com/user-attachments/assets/0a6f5c39-792a-4c75-9bc6-c9d2e38a6fa0" />
+- **WordPress**
+- **MediaWiki**
+- **GLPI**
+- **Dotclear**
+- **DokuWiki**
+- **Dolibarr**
+
+<img width="345" height="266" alt="SrvTools CMS" src="https://github.com/user-attachments/assets/84471a8b-a299-4124-8cce-065662c67fa2" />
+
+---
+
+### 🧮 3. Configuration du serveur
+
+- **Configuration réseau**
+  - Choix de la connexion (Ethernet ou Wi-Fi)  
+  - Sélection de la carte réseau  
+  - Configuration IP fixe ou DHCP  
+  - Paramétrage de l’adresse IP, du masque, de la passerelle et du DNS  
+
+- **Création de sauvegardes**
+  - Choix du dossier à sauvegarder  
+
+<img width="523" height="294" alt="SrvTools network" src="https://github.com/user-attachments/assets/0a6f5c39-792a-4c75-9bc6-c9d2e38a6fa0" />
 
 ---
 
