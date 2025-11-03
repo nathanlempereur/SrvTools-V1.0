@@ -89,7 +89,8 @@ Si le fichier de configuration est absent, l'installation et la configuration se
 
 L'utilisation de cet outil est pleinement compatible uniquement depuis :
 - France  
-- Belgique  
+- Belgique
+Sur les machines Linux avec accès Root et utilisations des paquets APT !!
 
 Une prochaine mise à jour **2.0** est prévue et englobera beaucoup plus de fonctionnalités !
 
