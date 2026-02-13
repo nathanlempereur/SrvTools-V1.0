@@ -14,11 +14,11 @@ Il est principalement développé en **Bash**.
 
 ---
 
-## ⚙️ Fonctionnalités
+## Fonctionnalités
 
 <img width="555" height="374" alt="SrvTools menu" src="https://github.com/user-attachments/assets/8309efbb-94a3-4dfb-9d45-09e1431b43f6" />
 
-### 🖥️ 1. Installation de services
+### 1. Installation de services
 
 - **Installation SSHD**
   - Choix du port  
@@ -48,7 +48,7 @@ Il est principalement développé en **Bash**.
 
 ---
 
-### 🌐 2. Installation de WebApps (CMS)
+### 2. Installation de WebApps (CMS)
 
 - **WordPress**
 - **MediaWiki**
@@ -61,7 +61,7 @@ Il est principalement développé en **Bash**.
 
 ---
 
-### 🧮 3. Configuration du serveur
+### 3. Configuration du serveur
 
 - **Configuration réseau**
   - Choix de la connexion (Ethernet ou Wi-Fi)  
@@ -85,13 +85,16 @@ Si le fichier de configuration est absent, l'installation et la configuration se
 
 ---
 
-## Informations !!
+## Compatibilité !
 
 L'utilisation de cet outil est pleinement compatible uniquement depuis :
 - France  
 - Belgique
 
 Sur les machines Linux avec accès Root et utilisations des paquets APT !!
+- Debian
+- Ubuntu
+- Kali
 
 Une prochaine mise à jour **2.0** est prévue et englobera beaucoup plus de fonctionnalités !
 
