@@ -1,4 +1,6 @@
 # SrvTools V1.0
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Status](https://img.shields.io/badge/status-Libre-orange)
 
 Bienvenue sur **SrvTools 1.0** !  
 <img width="343" height="83" alt="SrvTools logo" src="https://github.com/user-attachments/assets/847e6d9c-c52c-42aa-b12a-44c710b5a453" />
