@@ -106,7 +106,6 @@ SrvTools est un projet **open-source**.
 Vous pouvez le **modifier**, l’**améliorer** et **proposer des mises à jour**.
 
 N'hésitez pas à ouvrir une **issue** ou une **pull request** pour toute amélioration ou correction.  
-Vous pouvez me contacter à **contact@nlempereur.ovh**.
 
 ---
 
@@ -114,6 +113,12 @@ Vous pouvez me contacter à **contact@nlempereur.ovh**.
 
 Ce projet est sous **licence libre**.  
 Vous êtes libre de l'utiliser, le modifier et le redistribuer selon vos besoins.
+
+---
+
+### Contact
+- Email : **contact@nlempereur.ovh**
+- Site web : https://nlempereur.ovh/contact.php
 
 ---
 
